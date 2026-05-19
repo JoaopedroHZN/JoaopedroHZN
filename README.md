@@ -1,7 +1,7 @@
 # 👋 João Pedro Montelo Menezes
 
 💻 Desenvolvedor Back-End  
-🚀 Foco em Java e APIs  
+🚀 Foco em Java  
 🎓 Engenharia de Software — ULBRA Palmas  
 📍 Brasil
 
