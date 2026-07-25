@@ -94,6 +94,3 @@ Sempre preferi resolver problemas em vez de reclamar deles. Minha trajetória na
   Feito com ☕ <strong>Java heart</strong> e foco em código limpo!
 </p>
 
-<p align="center">
-  Feito com ☕ <strong>Java heart</strong> e foco em código limpo!
-</p>
