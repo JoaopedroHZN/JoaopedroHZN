@@ -78,17 +78,21 @@ Sempre preferi resolver problemas em vez de reclamar deles. Minha trajetória na
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaopedroHZN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Estatísticas do GitHub do João Pedro">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaopedroHZN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Linguagens mais utilizadas">
+  <img src="https://github-readme-stats.shion.dev/api?username=JoaopedroHZN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Estatísticas do GitHub do João Pedro">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JoaopedroHZN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Linguagens mais utilizadas">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaopedroHZN&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak de contribuições">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaopedroHZN&theme=tokyonight&hide_border=true&background=0D1117&fire=10b981&ring=10b981&currStreakLabel=10b981" alt="Streak de contribuições">
 </div>
 
 ---
+
+<p align="center">
+  Feito com ☕ <strong>Java heart</strong> e foco em código limpo!
+</p>
 
 <p align="center">
   Feito com ☕ <strong>Java heart</strong> e foco em código limpo!
